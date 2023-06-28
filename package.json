@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "test": "jest"
+  },
+  "name": "jest",
+  "version": "1.0.0",
+  "main": "sum.js",
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
